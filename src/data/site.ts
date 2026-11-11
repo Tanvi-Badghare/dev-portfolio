@@ -22,7 +22,7 @@ export const site = {
     { label: "GitHub", href: "https://github.com/Tanvi-Badghare" },
     { label: "LinkedIn", href: "https://linkedin.com/in/tanvi-i" },
     // Add these when the accounts are ready:
-    // { label: "Instagram", href: "https://instagram.com/your-handle" },
+    { label: "Instagram", href: "https://www.instagram.com/caused_a_scene_on_a_friday" },
     // { label: "Medium", href: "https://medium.com/@your-handle" },
   ],
   // Telemetry: headline numbers shown as gauges

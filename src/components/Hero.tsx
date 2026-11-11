@@ -30,7 +30,6 @@ export default function Hero() {
           transition={{ duration: 0.8, ease }}
         >
           <div className="profile-photo">
-            {/* Replace with your own photo: /public/images/portrait.jpg */}
             <img src="/images/portrait.png" alt={`Portrait of ${site.firstName}`} />
           </div>
 
